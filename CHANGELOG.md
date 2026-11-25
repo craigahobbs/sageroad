@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.10 (2026-11-25)
+
+- [3da42d9](https://github.com/craigahobbs/sageroad/commit/3da42d9) - Update the application to chisel 2.6
+
 ## 1.0.9 (2026-11-21)
 
 - [6fdc9e7](https://github.com/craigahobbs/sageroad/commit/6fdc9e7) - Stop a profile's design at an existing road it can't reach
